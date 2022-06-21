@@ -1,0 +1,20 @@
+/*generali*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FFF;
+    font-family: Whitney-Medium, sans-serif;
+    color: #000;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.debug *{
+    border: 1px solid red;
+    padding: 5px;
+}
